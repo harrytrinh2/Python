@@ -1,0 +1,12 @@
+# Ten, nam sinh, diem thi
+Obama, 1961, 8
+Clinton, 1946, 9
+Clinton, 1947, 5
+# Bush family
+Bush, 1946, 2
+Bush, 1955, 0
+Bush, 1924, 3
+Bush, 1953, 0
+Bush, 1956, 0
+Bush, 1959, 0
+Nixon, 1913, -1
